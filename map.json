@@ -41,7 +41,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.sueddeutsche.de\/reise\/klo-lektuere-dem-spueltrieb-freien-lauf-1.2989667"
                 }],
